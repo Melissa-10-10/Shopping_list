@@ -8,7 +8,7 @@ A Flutter application built for the mobile programming lab.
 ![Main List View](screenshots/list.png)
 
 ### Item Marked as Bought
-![Bought Item](screenshots/bought.png)
+![Bought Item](screenshots/brought.png)
 
 ### Empty Field Validation
 ![Empty Field Warning](screenshots/empty.png)
